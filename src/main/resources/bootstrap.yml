@@ -10,4 +10,6 @@ spring:
       server:
         git:
           uri: https://github.com/rgonzalesm97/BootcampConfigRepo.git
+  application:
+    name: config-service
       
